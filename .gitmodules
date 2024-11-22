@@ -1,0 +1,6 @@
+[submodule "zsim"]
+	path = zsim
+	url = git@github.com:uv-xiao/zsim.git
+[submodule "swarm"]
+	path = swarm
+	url = git@github.com:uv-xiao/swarm.git
